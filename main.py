@@ -1,5 +1,5 @@
 def main():
-  print('start')
+  print('START APP')
   
 if __name__ == "__main__":
   main()
